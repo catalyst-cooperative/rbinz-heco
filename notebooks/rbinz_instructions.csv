@@ -1,0 +1,62 @@
+utility_id_eia,utility_name_eia,questionable
+195,Alabama Power Company,FALSE
+213,Alaska Electric Light and Power Co.,FALSE
+19436,Union Electric Company,FALSE
+733,Appalachian Power Company,FALSE
+803,Arizona Public Service Company,FALSE
+20169,Avista Corporation,FALSE
+19545,"Black Hills Power, Inc.",FALSE
+3046,Carolina Power & Light Company,FALSE
+3265,Cleco Power LLC,FALSE
+5109,Detroit Edison Company,FALSE
+5416,"Duke Energy Carolinas, LLC",FALSE
+5701,El Paso Electric Company,FALSE
+5860,Empire District Electric Company,FALSE
+814,"Entergy Arkansas, Inc.",FALSE
+13478,"Entergy Louisiana, LLC",TRUE
+12685,"Entergy Mississippi, Inc.",FALSE
+13478,"Entergy New Orleans, Inc.",FALSE
+6452,Florida Power & Light Company,FALSE
+6455,Florida Power Corporation,FALSE
+7140,Georgia Power Company,FALSE
+7801,Gulf Power Company,FALSE
+19547,"Hawaiian Electric Company, Inc.",FALSE
+9191,Idaho Power Co.,FALSE
+9324,Indiana Michigan Power Company,FALSE
+9269,Indiana-Kentucky Electric Corp,FALSE
+10000,Kansas City Power & Light Company,FALSE
+10005,Kansas Gas and Electric Company,FALSE
+22053,Kentucky Power Company,FALSE
+10171,Kentucky Utilities Company,FALSE
+11249,Louisville Gas and Electric Company,FALSE
+11479,Madison Gas and Electric Company,FALSE
+12341,MidAmerican Energy Company,FALSE
+12647,ALLETE (Minnesota Power),FALSE
+12686,Mississippi Power Company,FALSE
+12796,Monongahela Power Company,FALSE
+12199,"MDU Resources Group, Inc.",FALSE
+13407,Nevada Power Company,FALSE
+13756,Northern Indiana Public Service Co.,FALSE
+13781,Northern States Power Company - MN,FALSE
+13780,Northern States Power Company - WI,FALSE
+13809,Northwestern Public Service Co (SD),TRUE
+14063,Oklahoma Gas and Electric Company,FALSE
+14232,Otter Tail Corporation,FALSE
+14354,PacifiCorp,FALSE
+15248,Portland General Electric Company,FALSE
+15470,"Duke Energy Indiana, Inc.",FALSE
+15466,Public Service Company of Colorado,FALSE
+15473,Public Service Company of New Mexico,FALSE
+15474,Public Service Company of Oklahoma,FALSE
+15500,"Puget Sound Energy, Inc.",FALSE
+17166,Sierra Pacific Power Company,FALSE
+17539,South Carolina Electric & Gas Co.,FALSE
+17633,"Southern Indiana Gas and Electric Company, Inc.",FALSE
+17698,Southwestern Electric Power Company,FALSE
+17718,Southwestern Public Service Company,FALSE
+18454,Tampa Electric Company,FALSE
+24211,Tucson Electric Power Company,FALSE
+19446,Union Light Heat & Power Co (KY),TRUE
+19876,Virginia Electric and Power Company,FALSE
+22500,Westar Energy (KPL),FALSE
+55729,Duke Energy Kentucky,FALSE
